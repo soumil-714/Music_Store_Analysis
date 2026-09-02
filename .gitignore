@@ -1,20 +1,25 @@
-# MySQL local/database files
-*.ibd
-*.frm
-*.MYD
-*.MYI
-ibdata1
-ib_logfile*
-mysql.sock
-
-# MySQL Workbench temporary files
-*.autosave
-*.bak
-
-# OS files
+# --- OS junk files ---
 .DS_Store
 Thumbs.db
+desktop.ini
 
-# Editor files
+# --- Editor ---
 .vscode/
-.idea/
+
+# --- MySQL Workbench backup/temp files ---
+*.mwb.bak
+*.mwb~
+*.sql~
+*.sql.bak
+
+# --- General temp/backup files ---
+*~
+*.tmp
+*.swp
+
+# --- Logs ---
+*.log
+
+# --- Ad-hoc exported query results (not the source CSVs in /data) ---
+/exports/
+/output/*.csv
