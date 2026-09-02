@@ -1,5 +1,3 @@
-![alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/soumil/Documents/Music_Store_Analysis/ChatGPT%20Image%20Jul%2031%2C%202026%2C%2010_25_11%20PM.png?version%3D1788370233238)
-
 ```mermaid
 erDiagram
     ARTIST ||--o{ ALBUM : "creates"
@@ -78,3 +76,4 @@ erDiagram
         int quantity
     }
 ```
+![Entity Relationship Diagram](images/erd.png)
