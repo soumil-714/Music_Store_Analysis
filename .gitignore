@@ -1,0 +1,24 @@
+# MySQL local/database files
+*.ibd
+*.frm
+*.MYD
+*.MYI
+ibdata1
+ib_logfile*
+mysql.sock
+
+# MySQL Workbench temporary files
+*.autosave
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
