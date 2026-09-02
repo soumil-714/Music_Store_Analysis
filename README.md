@@ -159,8 +159,6 @@ erDiagram
     }
 ```
 
-![Entity Relationship Diagram](images/ERD.png)
-
 ## Project Structure
 
 ```text
