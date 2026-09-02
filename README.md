@@ -76,4 +76,19 @@ erDiagram
         int quantity
     }
 ```
-![Entity Relationship Diagram](images/erd.png)
+
+  *Figure 1: Full relational schema — 11 tables covering artists, tracks, customers, invoices, and playlists, connected via primary/foreign keys.*
+
+<!--  -->
+<!--  -->
+
+![Entity Relationship Diagram](images/top_rock_artists_query.png)
+
+*Figure 2: Output of the Rock-artist ranking query — Led Zeppelin leads with 114 tracks, followed by U2 (112) and Deep Purple (92).*
+
+<!--  -->
+<!--  -->
+
+![Entity Relationship Diagram](images/genre_performance_query.png)
+
+*Figure 3: Revenue and units sold by genre — Rock dominates at $2,608.65 from 2,635 units, over 4x the next-highest genre.*
