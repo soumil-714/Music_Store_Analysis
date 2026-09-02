@@ -2,7 +2,7 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL-9.7.1-blue?logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/Language-SQL-orange)
-![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 A SQL-driven business analysis of a digital music store's sales data — built to uncover revenue patterns, customer value, product performance, and geographic demand using MySQL.
