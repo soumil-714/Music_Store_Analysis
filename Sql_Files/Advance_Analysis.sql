@@ -196,4 +196,3 @@ SELECT
     ROUND(revenue / units_sold, 2) AS revenue_per_unit
 FROM artist_performance
 ORDER BY revenue DESC;
-
